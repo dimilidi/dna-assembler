@@ -33,6 +33,9 @@ After inserting these fragments and specifying a weight threshold, the program m
 ## Requirements
 - Java Development Kit (JDK) installed on your system.
 
+## GitHub Repository
+You can find the source code and contribute to the project on GitHub: [DNA Assembler GitHub Repository](https://github.com/dimilidi/dna-assembler).
+
 ## Credits
 
 The idea for this DNA Assembler program was inspired by the article ["DNA Paired Fragment Assembly Using Graph Theory"](https://www.researchgate.net/publication/315635432_DNA_Paired_Fragment_Assembly_Using_Graph_Theory) by [J. Emilio Quiroz-Ibarra

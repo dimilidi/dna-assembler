@@ -33,3 +33,9 @@ After inserting these fragments and specifying a weight threshold, the program m
 ## Requirements
 - Java Development Kit (JDK) installed on your system.
 
+## Credits
+
+The idea for this DNA Assembler program was inspired by the article ["DNA Paired Fragment Assembly Using Graph Theory"](https://www.researchgate.net/publication/315635432_DNA_Paired_Fragment_Assembly_Using_Graph_Theory) by [J. Emilio Quiroz-Ibarra
+, Guillermo Fernandez Anaya,  Guillermo Mallen]. The concepts and methodologies presented in the article provided valuable insights and inspiration for the development of this project.
+
+

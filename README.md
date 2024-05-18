@@ -6,7 +6,7 @@ The DNA Assembler is a Java program that implements a prefix tree (trie) data st
 ## Features
 - **Prefix Tree Implementation**: Utilizes a prefix tree to efficiently store and manage DNA fragments.
 - **DNA Fragment Insertion**: Inserts DNA fragments into the prefix tree, ensuring validation of characters against the DNA alphabet(A, C, G, T), consisting of the four nitrogenous bases adenine (A),
-- thymine (T), cytosine (C) and guanine (G).
+thymine (T), cytosine (C) and guanine (G).
 - **Edge Weight Assignment**: Assigns a weight to each edge of the tree, representing the number of DNA fragments utilizing that edge.
 - **Contig Extraction**: Extracts contigs from the tree based on a user-defined weight threshold, providing all paths with edge weights greater than or equal to the specified consensus.
 - **Interactive Input**: Prompts the user to input DNA fragments during program execution, enhancing usability and flexibility.
